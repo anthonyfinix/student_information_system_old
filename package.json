@@ -1,0 +1,23 @@
+{
+  "name": "student_information_system",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Manage School",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm run start-env",
+    "server": "cd server && npm run server-env"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyfinix/student_infromation_system.git"
+  },
+  "keywords": [],
+  "author": "Anthony Finix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyfinix/student_infromation_system/issues"
+  },
+  "homepage": "https://github.com/anthonyfinix/student_infromation_system#readme",
+  "dependencies": {}
+}

@@ -1,0 +1,9 @@
+#register-wrapper .login-card{
+    width: 300px;
+    margin-top: 150px;
+    padding: 10px;
+}
+#register-wrapper .custom-form-styles{
+    width: 100%;
+    margin-bottom: 10px;
+}
